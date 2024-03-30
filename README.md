@@ -1,2 +1,2 @@
-# netflix-account-generator-and-checker
+# what use
 What you need to install: Python and Selenium
